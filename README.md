@@ -1,9 +1,10 @@
 # EURO 2024 Results based on Swisslos
 
 This code crawls the betting odds on swisslos for the three most likely results of each game.
+Be advised that swisslos.
 
 ## How to use it 
-clone repo
+### clone repo
 
 ### install requirements: 
 ```
@@ -17,3 +18,6 @@ If you are using another device, check out [google chrome labs](https://googlech
 
 ## Stats
 From time to time, I will provide some plots about the odds. 
+
+# Disclaimer
+For educational purposes only
