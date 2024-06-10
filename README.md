@@ -11,7 +11,9 @@ pip install selenium
 pip install beautifulsoup4
 pip install pandas
 ```
-
+### download chrome driver
+In the repo, there is already a chromedriver.exe. This is the latest stable x64 version for windows. 
+If you are using another device, check out [google chrome labs](https://googlechromelabs.github.io/chrome-for-testing/) and download the lates version of chromedriver for your device. 
 
 ## Stats
 From time to time, I will provide some plots about the odds. 
