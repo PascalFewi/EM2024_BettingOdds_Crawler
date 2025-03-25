@@ -43,7 +43,7 @@ In the repo, there is already a chromedriver for Windows. If you are using anoth
 ## Stats
 
 See the three most likely results for each game:
-[odds.csv](src\odds\odds_11_06_2024.csv)
+[odds.csv](src/odds/odds_11_06_2024.csv)
 
 # Disclaimer
 
