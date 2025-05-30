@@ -1,4 +1,4 @@
-# EURO 2024 Betting Odds Analyzer
+# EURO 2024 - Swisslos Betting Odds Analyzer
 
 A web scraping tool that collects and analyzes betting odds from Swisslos for EURO 2024 matches.
 
